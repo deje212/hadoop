@@ -1,0 +1,1 @@
+export CLASSPATH="$HADOOP_HOME/share/hadoop/mapreduce/hadoop-mapreduce-client-core-3.1.1.jar:$HADOOP_HOME/share/hadoop/mapreduce/hadoop-mapreduce-client-common-3.1.1.jar:$HADOOP_HOME/share/hadoop/common/hadoop-common-3.1.1.jar:/home/hduser/latihan/MapReduce/SalesCountry/*:$HADOOP_HOME/lib/*"
