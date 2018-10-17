@@ -1,5 +1,4 @@
 #!/bin/bash
-
 OUTPUTFILE=`echo $1 | sed 's/.csv/_clean.csv'/g`
 if [ "$#" -eq  "0" ]
    then
